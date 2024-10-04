@@ -1,6 +1,7 @@
 # To-do-App
 
-Description
+Description:
+
 This is a simple and interactive To-Do application built using HTML, CSS, and JavaScript. The application allows users to create a list of tasks they need to accomplish, track their progress, and manage the tasks efficiently.
 
 Key Features:
